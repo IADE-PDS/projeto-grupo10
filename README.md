@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CarsWash
 - Laravel - Livewire - TailwindCSS - AlpineJS
 - Laravel 10
@@ -40,3 +41,7 @@
 - Trabalhador de teste:
 - - Email: worker@worker.com
 - - Senha: password
+=======
+# PROJETO-GRUPO10
+
+>>>>>>> 22ce62e2ae2b973665b2e617a397926519dbe3bf
